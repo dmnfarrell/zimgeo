@@ -7,16 +7,16 @@ tags: rhodesia
 comments: 1
 ---
 
-The colonial government in Southern Rhodesia delineated the country into five distinct farming regions which corresponded roughly to rainfall patterns
+The colonial government in Southern Rhodesia delineated the country into five distinct farming regions which corresponded roughly to rainfall patterns.
 
 {% include land_use.html %}
 
 ### Static map
 
 <div style="width: 600px;">
- <a href="/img/rhodesia_land_classes.png"> <img src="/img/rhodesia_land_classes.png" width="550px"></a>
+ <a href="{{site.baseurl}}/img/rhodesia_land_classes.png"> <img src="{{site.baseurl}}/img/rhodesia_land_classes.png" width="550px"></a>
 </div>
 
 ## Links
 
-* https://en.wikipedia.org/wiki/Land_reform_in_Zimbabwe
+* [Land reform in Zimbabwe](https://en.wikipedia.org/wiki/Land_reform_in_Zimbabwe)

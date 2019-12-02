@@ -16,7 +16,7 @@
 title: Zimbabwe Maps
 description: > # this means to ignore newlines until "baseurl:"
   Map tests
-baseurl: ''
+baseurl: '/zimgeo'
 url: "https://dmnfarrell.github.io/zimgeo/"
 permalink: /:categories/:title
 paginate: 5
