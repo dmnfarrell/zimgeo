@@ -11,7 +11,7 @@ Zimbabwe GIS mapping tests.
 
 ## Data sources
 
+* https://datacatalog.worldbank.org
 * http://ghdx.healthdata.org/organizations/central-statistical-office-zimbabwe
 * http://zimbabwe.opendataforafrica.org/
 * https://www.who.int/hac/crises/zwe/maps/en/
-
