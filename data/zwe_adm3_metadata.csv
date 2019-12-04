@@ -1,0 +1,463 @@
+Variable name,Definition,Category
+wardpcode02_v2,Ward code new version 2002,IDENTIFIERS
+wardpcode02_v2Str,Ward code new version 2002,IDENTIFIERS
+Province,Province,IDENTIFIERS
+ZIMWARDSID,ZIMWARDSID,IDENTIFIERS
+PROVINCE,PROVINCE,IDENTIFIERS
+LOCAL_AUTH,LOCAL_AUTH,IDENTIFIERS
+WARDNUMBER,WARDNUMBER,IDENTIFIERS
+District12,District name 2012 (census),IDENTIFIERS
+DISTRICT,District name 2012 other source,IDENTIFIERS
+district02,District name 2002 (census),IDENTIFIERS
+districtpc02,District code 2002 (census),IDENTIFIERS
+dist_hasc02,District hasc 2002,IDENTIFIERS
+___GENERAL___,-----------------GENERAL------------------------,
+areaKM2_12,Area in km2 of 2012 ward boundary,GENERAL
+areaKM2_02,Area in km2 of 2002 ward boundary,GENERAL
+pop,Total Population 2012,GENERAL
+pop_m,Population male 2012,GENERAL
+pop_f,Population female 2012,GENERAL
+pop02,Total Population 2002,GENERAL
+pop_m02,Population male 2002,GENERAL
+pop_f02,Population female 2002,GENERAL
+popdens12,Population density (pop/km2) in 2012,GENERAL
+popdens02,Population density (pop/km2) in 2002,GENERAL
+___CENSUS_2012___,-----------------CENSUS 2012------------------------,
+pd_empl_srv_m,Paid workers in services male 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_srv_f,Paid workers in services female 2012,OCCUPATION & WORK STATUS 2012
+actwrk_srv_m,Own account workers in services male 2012,OCCUPATION & WORK STATUS 2012
+actwrk_srv_f,Own account workers in services female 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_srv_m,Unpaid family workers in services male 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_srv_f,Unpaid family workers in services female 2012,OCCUPATION & WORK STATUS 2012
+emp_srv_m,Employer services male 2012,OCCUPATION & WORK STATUS 2012
+emp_srv_f,Employer services female 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_agr_m,Paid workers in agriculture male 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_agr_f,Paid workers in agriculture female 2012,OCCUPATION & WORK STATUS 2012
+actwrk_agr_m,Own account workers in agriculture male 2012,OCCUPATION & WORK STATUS 2012
+actwrk_agr_f,Own account workers in agriculture female 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_agr_m,Unpaid family workers in agriculture male 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_agr_f,Unpaid family workers in agriculture female 2012,OCCUPATION & WORK STATUS 2012
+emp_agr_m,Employer agriculture male 2012,OCCUPATION & WORK STATUS 2012
+emp_agr_f,Employer agriculture female 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_ind_m,Paid workers in industry male 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_ind_f,Paid workers in industry female 2012,OCCUPATION & WORK STATUS 2012
+actwrk_ind_m,Own account workers in industry male 2012,OCCUPATION & WORK STATUS 2012
+actwrk_ind_f,Own account workers in industry female 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_ind_m,Unpaid family workers in industry male 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_ind_f,Unpaid family workers in industry female 2012,OCCUPATION & WORK STATUS 2012
+emp_ind_m,Employer industry male 2012,OCCUPATION & WORK STATUS 2012
+emp_ind_f,Employer industry female 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_agro_ind_m,Paid workers in agro-processing male 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_agro_ind_f,Paid workers in agro-processing female 2012,OCCUPATION & WORK STATUS 2012
+actwrk_agro_ind_m,Own account workers in agro-processing male 2012,OCCUPATION & WORK STATUS 2012
+actwrk_agro_ind_f,Own account workers in agro-processing female 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_agro_ind_m,Unpaid family workers in agro-processing male 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_agro_ind_f,Unpaid family workers in agro-processing female 2012,OCCUPATION & WORK STATUS 2012
+emp_agro_ind_m,Employer agro-processing male 2012,OCCUPATION & WORK STATUS 2012
+emp_agro_ind_f,Employer agro-processing female 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_min_cnstr_lab_m,"Paid workers in mining, construction labourers male 2012",OCCUPATION & WORK STATUS 2012
+pd_empl_min_cnstr_lab_f,"Paid workers in mining, construction labourers female 2012",OCCUPATION & WORK STATUS 2012
+actwrk_min_cnstr_lab_m,"Own account workers in mining, construction labourers male 2012",OCCUPATION & WORK STATUS 2012
+actwrk_min_cnstr_lab_f,"Own account workers in mining, construction labourers female 2012",OCCUPATION & WORK STATUS 2012
+unpd_famwrk_min_cnstr_lab_m,"Unpaid family workers in mining, construction labourers male 2012",OCCUPATION & WORK STATUS 2012
+unpd_famwrk_min_cnstr_lab_f,"Unpaid family workers in mining, construction labourers female 2012",OCCUPATION & WORK STATUS 2012
+emp_min_cnstr_lab_m,"Employer mining, construction labourers male 2012",OCCUPATION & WORK STATUS 2012
+emp_min_cnstr_lab_f,"Employer mining, construction labourers female 2012",OCCUPATION & WORK STATUS 2012
+pd_empl_min_cnstr_m,"Paid workers in mining, construction male 2012",OCCUPATION & WORK STATUS 2012
+pd_empl_min_cnstr_f,"Paid workers in mining, construction female 2012",OCCUPATION & WORK STATUS 2012
+actwrk_min_cnstr_m,"Own account workers in mining, construction male 2012",OCCUPATION & WORK STATUS 2012
+actwrk_min_cnstr_f,"Own account workers in mining, construction female 2012",OCCUPATION & WORK STATUS 2012
+unpd_famwrk_min_cnstr_m,"Unpaid family workers in mining, construction male 2012",OCCUPATION & WORK STATUS 2012
+unpd_famwrk_min_cnstr_f,"Unpaid family workers in mining, construction female 2012",OCCUPATION & WORK STATUS 2012
+emp_min_cnstr_m,"Employer mining, construction male 2012",OCCUPATION & WORK STATUS 2012
+emp_min_cnstr_f,"Employer mining, construction female 2012",OCCUPATION & WORK STATUS 2012
+pd_empl_srv,Paid worker in services (male and female) 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_agr,Paid worker in agriculture (male and female) 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_ind,Paid worker in industry (male and female) 2012,OCCUPATION & WORK STATUS 2012
+pd_empl_agro_ind,Paid worker in agro-processing (male and female) 2012,OCCUPATION & WORK STATUS 2012
+actwrk_srv,Own account worker in services (male and female) 2012,OCCUPATION & WORK STATUS 2012
+actwrk_agr,Own account worker in agriculture (male and female) 2012,OCCUPATION & WORK STATUS 2012
+actwrk_ind,Own account worker in industry (male and female) 2012,OCCUPATION & WORK STATUS 2012
+actwrk_agro_ind,Own account worker in agro-processing (male and female) 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_srv,Unpaid family worker in services (male and female) 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_agr,Unpaid family worker in agriculture (male and female) 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_ind,Unpaid family worker in industry (male and female) 2012,OCCUPATION & WORK STATUS 2012
+unpd_famwrk_agro_ind,Unpaid family worker in agro-processing (male and female) 2012,OCCUPATION & WORK STATUS 2012
+emp_srv,Employer in services (male and female) 2012,OCCUPATION & WORK STATUS 2012
+emp_agr,Employer in agriculture (male and female) 2012,OCCUPATION & WORK STATUS 2012
+emp_ind,Employer in industry (male and female) 2012,OCCUPATION & WORK STATUS 2012
+emp_agro_ind,Employer in agro-processing (male and female) 2012,OCCUPATION & WORK STATUS 2012
+formal_srv,Formal worker services (male and female) 2012,OCCUPATION & WORK STATUS 2012
+formal_agr,Formal worker agriculture (male and female) 2012,OCCUPATION & WORK STATUS 2012
+formal_ind,Formal worker industry (male and female) 2012,OCCUPATION & WORK STATUS 2012
+formal_agro_ind,Formal worker agro-processing (male and female) 2012,OCCUPATION & WORK STATUS 2012
+informal_srv,Informal worker services (male and female) 2012,OCCUPATION & WORK STATUS 2012
+informal_agr,Informal worker agriculture (male and female) 2012,OCCUPATION & WORK STATUS 2012
+informal_ind,Informal worker industry (male and female) 2012,OCCUPATION & WORK STATUS 2012
+informal_agro_ind,Informal worker agro-processing (male and female) 2012,OCCUPATION & WORK STATUS 2012
+___SERVICE_ACCESS_2012___,-----------------SERVICE ACCESS 2012------------------------,
+acc_elec_m,"Access to electricity in home, male 2012",SERVICE ACCESS 2012
+acc_elec_f,"Access to electricity in home, female 2012",SERVICE ACCESS 2012
+no_elec_m,"No access to electricity in home, male 2012",SERVICE ACCESS 2012
+no_elec_f,"No access to electricity in home, female 2012",SERVICE ACCESS 2012
+acc_sant_m,"Access to sanitation in home (toilet facility), male 2012",SERVICE ACCESS 2012
+acc_sant_f,"Access to sanitation in home (toilet facility), female 2012",SERVICE ACCESS 2012
+no_sant_m,"No access to sanitation in home (toilet facility), male 2012",SERVICE ACCESS 2012
+no_sant_f,"No access to sanitation in home (toilet facility), female 2012",SERVICE ACCESS 2012
+wat_impr_m,"Access to improved water in home, male 2012",SERVICE ACCESS 2012
+wat_impr_f,"Access to improved water in home, female 2012",SERVICE ACCESS 2012
+unwat_impr_m,"No access to improved water in home, male 2012",SERVICE ACCESS 2012
+unwat_impr_f,"No access to improved water in home, female 2012",SERVICE ACCESS 2012
+___EDUCATION_2012___,-----------------EDUCATION 2012------------------------,
+m_pre_school,Males that completed pre-school 2012,EDUCATION 2012
+m_primary_edu,Males that completed primary school 2012,EDUCATION 2012
+m_secondary_edu,Males that completed secondary school 2012,EDUCATION 2012
+m_tertiary_edu,Males that completed tertiary school 2012,EDUCATION 2012
+m_no_edu,Males with no education 2012,EDUCATION 2012
+m_not_known,Males with education unknown 2012,EDUCATION 2012
+m_total,Males total (education) 2012,EDUCATION 2012
+m_lte_pre_school_over_m,(sum) m_lte_pre_school_over_m 2012,EDUCATION 2012
+m_lte_primary_edu_over_m,(sum) m_lte_primary_edu_over_m 2012,EDUCATION 2012
+m_gte_sec_edu_over_m,(sum) m_gte_sec_edu_over_m 2012,EDUCATION 2012
+m_gte_tertiary_edu_over_m,(sum) m_gte_tertiary_edu_over_m 2012,EDUCATION 2012
+m_no_edu_over_m,(sum) m_no_edu_over_m 2012,EDUCATION 2012
+fem_pre_school,Females that completed pre-school 2012,EDUCATION 2012
+fem_primary_edu,Females that completed primary school 2012,EDUCATION 2012
+fem_secondary_edu,Females that completed secondary school 2012,EDUCATION 2012
+fem_tertiary_edu,Females that completed tertiary school 2012,EDUCATION 2012
+fem_no_edu,Females with no education 2012,EDUCATION 2012
+fem_not_known,Females with education unknown 2012,EDUCATION 2012
+fem_total,Females total (education) 2012,EDUCATION 2012
+fem_lte_pre_school_over_fem,(sum) fem_lte_pre_school_over_fem 2012,EDUCATION 2012
+fem_lte_primary_edu_over_fem,(sum) fem_lte_primary_edu_over_fem 2012,EDUCATION 2012
+fem_gte_sec_edu_over_fem,(sum) fem_gte_sec_edu_over_fem 2012,EDUCATION 2012
+fem_gte_tertiary_edu_over_fem,(sum) fem_gte_tertiary_edu_over_fem 2012,EDUCATION 2012
+fem_no_edu_over_fem,(sum) fem_no_edu_over_fem 2012,EDUCATION 2012
+total_of_m_fem_edupri,Total with pre-school education 2012,EDUCATION 2012
+total_of_m_fem_primary_edu,Total with primary education 2012,EDUCATION 2012
+total_of_m_fem_sec_edu,Total with secondary education 2012,EDUCATION 2012
+total_of_m_fem_tertiary_edu,Total with tertiary education 2012,EDUCATION 2012
+total_of_m_fem_no_edu,Total with no education 2012,EDUCATION 2012
+total_of_m_fem_in_each_ward,Total population asked (education) 2012,EDUCATION 2012
+pre_school,Total with pre-school education (other source?) 2012,EDUCATION 2012
+primary_edu,Total with primary education (other source?) 2012,EDUCATION 2012
+secondary_edu,Total with secondary education (other source?) 2012,EDUCATION 2012
+tertiary_edu,Total with tertiary education (other source?) 2012,EDUCATION 2012
+no_edu,Total with no education (other source?) 2012,EDUCATION 2012
+total,Total population asked (education) (other source?) 2012,EDUCATION 2012
+sh_edu_sec_ter12,Share of people with secondary education or higher 2012,EDUCATION 2012
+___POVERTY_2012___,-----------------POVERTY 2012------------------------,
+Population,Total poulation (from poverty data) 2012,POVERTY 2012
+TotalNoofHholds,Total number of households 2012,POVERTY 2012
+Nooffoodpoorhholds,Number of food-poor households 2012,POVERTY 2012
+Nooffoodpoorpeople,Number of food-poor people 2012,POVERTY 2012
+Noofnonpoorhholds,(sum) Noofnonpoorhholds 2012,POVERTY 2012
+Averagehholdsize,Average household size 2012,POVERTY 2012
+Foodpovertyprevalence,Food-Poverty rate 2012,POVERTY 2012
+Sefoodpoverty,Standard Error Food Poverty 2012,POVERTY 2012
+Urban1,Urban dummy 2012,POVERTY 2012
+___CENSUS_2002___,-----------------CENSUS 2002------------------------,
+paid_empl_srv_m02,Paid workers in services male 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_srv_f02,Paid workers in services female 2002,OCCUPATION & WORK STATUS 2002
+actwrk_srv_m02,Own account workers in services male 2002,OCCUPATION & WORK STATUS 2002
+actwrk_srv_f02,Own account workers in services female 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_srv_m02,Unpaid family workers in services male 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_srv_f02,Unpaid family workers in services female 2002,OCCUPATION & WORK STATUS 2002
+emp_srv_m02,Employer services male 2002,OCCUPATION & WORK STATUS 2002
+emp_srv_f02,Employer services female 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_agr_m02,Paid workers in agriculture male 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_agr_f02,Paid workers in agriculture female 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agr_m02,Own account workers in agriculture male 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agr_f02,Own account workers in agriculture female 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_agr_m02,Unpaid family workers in agriculture male 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_agr_f02,Unpaid family workers in agriculture female 2002,OCCUPATION & WORK STATUS 2002
+emp_agr_m02,Employer agriculture male 2002,OCCUPATION & WORK STATUS 2002
+emp_agr_f02,Employer agriculture female 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_ind_m02,Paid workers in industry male 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_ind_f02,Paid workers in industry female 2002,OCCUPATION & WORK STATUS 2002
+actwrk_ind_m02,Own account workers in industry male 2002,OCCUPATION & WORK STATUS 2002
+actwrk_ind_f02,Own account workers in industry female 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_ind_m02,Unpaid family workers in industry male 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_ind_f02,Unpaid family workers in industry female 2002,OCCUPATION & WORK STATUS 2002
+emp_ind_m02,Employer industry male 2002,OCCUPATION & WORK STATUS 2002
+emp_ind_f02,Employer industry female 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_agro_ind_m02,Paid workers in agro-processing male 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_agro_ind_f02,Paid workers in agro-processing female 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agro_ind_m02,Own account workers in agro-processing male 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agro_ind_f02,Own account workers in agro-processing female 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_agro_ind_m02,Unpaid family workers in agro-processing male 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_agro_ind_f02,Unpaid family workers in agro-processing female 2002,OCCUPATION & WORK STATUS 2002
+emp_agro_ind_m02,Employer agro-processing male 2002,OCCUPATION & WORK STATUS 2002
+emp_agro_ind_f02,Employer agro-processing female 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_min_cnstr_lab_m02,"Paid workers in mining, construction labourers male 2002",OCCUPATION & WORK STATUS 2002
+paid_empl_min_cnstr_lab_f02,"Paid workers in mining, construction labourers female 2002",OCCUPATION & WORK STATUS 2002
+actwrk_min_cnstr_lab_m02,"Own account workers in mining, construction labourers male 2002",OCCUPATION & WORK STATUS 2002
+actwrk_min_cnstr_lab_f02,"Own account workers in mining, construction labourers female 2002",OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_min_cnstr_lab_m02,"Unpaid family workers in mining, construction labourers male 2002",OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_min_cnstr_lab_f02,"Unpaid family workers in mining, construction labourers female 2002",OCCUPATION & WORK STATUS 2002
+emp_min_cnstr_lab_m02,"Employer mining, construction labourers male 2002",OCCUPATION & WORK STATUS 2002
+emp_min_cnstr_lab_f02,"Employer mining, construction labourers female 2002",OCCUPATION & WORK STATUS 2002
+paid_empl_min_cnstr_m02,"Paid workers in mining, construction male 2002",OCCUPATION & WORK STATUS 2002
+paid_empl_min_cnstr_f02,"Paid workers in mining, construction female 2002",OCCUPATION & WORK STATUS 2002
+actwrk_min_cnstr_m02,"Own account workers in mining, construction male 2002",OCCUPATION & WORK STATUS 2002
+actwrk_min_cnstr_f02,"Own account workers in mining, construction female 2002",OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_min_cnstr_m02,"Unpaid family workers in mining, construction male 2002",OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_min_cnstr_f02,"Unpaid family workers in mining, construction female 2002",OCCUPATION & WORK STATUS 2002
+emp_min_cnstr_m02,"Employer mining, construction male 2002",OCCUPATION & WORK STATUS 2002
+emp_min_cnstr_f02,"Employer mining, construction female 2002",OCCUPATION & WORK STATUS 2002
+paid_empl_srv02,Paid worker in services (male and female) 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_agr02,Paid worker in agriculture (male and female) 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_ind02,Paid worker in industry (male and female) 2002,OCCUPATION & WORK STATUS 2002
+paid_empl_agro_ind02,Paid worker in agro-processing (male and female) 2002,OCCUPATION & WORK STATUS 2002
+actwrk_srv02,Own account worker in services (male and female) 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agr02,Own account worker in agriculture (male and female) 2002,OCCUPATION & WORK STATUS 2002
+actwrk_ind02,Own account worker in industry (male and female) 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agro_ind02,Own account worker in agro-processing (male and female) 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_srv02,Unpaid family worker in services (male and female) 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_agr02,Unpaid family worker in agriculture (male and female) 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_ind02,Unpaid family worker in industry (male and female) 2002,OCCUPATION & WORK STATUS 2002
+unpaid_famwrk_agro_ind02,Unpaid family worker in agro-processing (male and female) 2002,OCCUPATION & WORK STATUS 2002
+emp_srv02,Employer in services (male and female) 2002,OCCUPATION & WORK STATUS 2002
+emp_agr02,Employer in agriculture (male and female) 2002,OCCUPATION & WORK STATUS 2002
+emp_ind02,Employer in industry (male and female) 2002,OCCUPATION & WORK STATUS 2002
+emp_agro_ind02,Employer in agro-processing (male and female) 2002,OCCUPATION & WORK STATUS 2002
+formal_srv02,Formal worker services (male and female) 2002,OCCUPATION & WORK STATUS 2002
+formal_agr02,Formal worker agriculture (male and female) 2002,OCCUPATION & WORK STATUS 2002
+formal_ind02,Formal worker industry (male and female) 2002,OCCUPATION & WORK STATUS 2002
+formal_agro_ind02,Formal worker agro-processing (male and female) 2002,OCCUPATION & WORK STATUS 2002
+informal_srv02,Informal worker services (male and female) 2002,OCCUPATION & WORK STATUS 2002
+informal_agr02,Informal worker agriculture (male and female) 2002,OCCUPATION & WORK STATUS 2002
+informal_ind02,Informal worker industry (male and female) 2002,OCCUPATION & WORK STATUS 2002
+informal_agro_ind02,Informal worker agro-processing (male and female) 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_agr_fish_rlt_lab_m02,Paid worker in Agricultural Fishery and Related Labourer Males 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_agr_fish_rlt_lab_f02,Paid worker Agricultural Fishery And Related Labourer Females 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agr_fish_rlt_lab_m02,Own account worker Agricultural Fishery And Related Labourer Males 2002,OCCUPATION & WORK STATUS 2002
+actwrk_agr_fish_rlt_lab_f02,Own account worker Agricultural Fishery And Related Labourer Females 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_agr_fish_rlt_lab_m02,Unpaid family worker Agricultural Fishery And Related Labourer Males 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_agr_fish_rlt_lab_f02,Unpaid family worker Agricultural Fishery And Related Labourer Females 2002,OCCUPATION & WORK STATUS 2002
+emp_agr_fish_rlt_lab_m02,Employer Agricultural Fishery And Related Labourers Males 2002,OCCUPATION & WORK STATUS 2002
+emp_agr_fish_rlt_lab_f02,Employer Agricultural Fishery And Related Labourers Females 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_fishwrk_hunt_m02,Paid worker Fishery Workers Hunters And Trapper Males 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_fishwrk_hunt_f02,Paid worker Fishery Workers Hunters And Trapper Females 2002,OCCUPATION & WORK STATUS 2002
+actwrk_fishwrk_hunt_m02,Own account worker Fishery Workers Hunters And Trapper Males 2002,OCCUPATION & WORK STATUS 2002
+actwrk_fishwrk_hunt_f02,Own account worker Fishery Workers Hunters And Trapper Females 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_fishwrk_hunt_m02,Unpaid family worker Fishery Workers Hunters And Trapper Males 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_fishwrk_hunt_f02,Unpaid family worker Fishery Workers Hunters And Trapper Females 2002,OCCUPATION & WORK STATUS 2002
+emp_fishwrk_hunt_m02,Employer Fishery Workers Hunters And Trapper Males 2002,OCCUPATION & WORK STATUS 2002
+emp_fishwrk_hunt_f02,Employer Fishery Workers Hunters And Trapper Females 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_cm_sub_agr_worker_m02,Paid worker Communal Subsistence Agricultural Worker Males 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_cm_sub_agr_worker_f02,Paid worker Communal Subsistence Agricultural Worker Females 2002,OCCUPATION & WORK STATUS 2002
+actwrk_cm_sub_agr_worker_m02,Own account worker Communal Subsistence Agricultural Worker Males 2002,OCCUPATION & WORK STATUS 2002
+actwrk_cm_sub_agr_worker_f02,Own account worker Communal Subsistence Agricultural Worker Females 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_cmsubagr_workerm02,Unpaid family worker Communal Subsistence Agricultural Worker Males 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_cmsubagr_workerf02,Unpaid family worker Communal Subsistence Agricultural Worker Females 2002,OCCUPATION & WORK STATUS 2002
+emp_cm_sub_agr_worker_m02,Employer Communal Subsistence Agricultural Worker Males 2002,OCCUPATION & WORK STATUS 2002
+emp_cm_sub_agr_worker_f02,Employer Communal Subsistence Agricultural Worker Females 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_commercial_farmer_m02,Paid worker Commercial Farmer Males 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_commercial_farmer_f02,Paid worker Commercial Farmer Females 2002,OCCUPATION & WORK STATUS 2002
+actwrk_commercial_farmer_m02,Own account worker Commercial Farmer Males 2002,OCCUPATION & WORK STATUS 2002
+actwrk_commercial_farmer_f02,Own account worker Commercial Farmer Females 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_commercialfarmerm02,Unpaid family worker Commercial Farmer Males 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_commercialfarmerf02,Unpaid family worker Commercial Farmer Females 2002,OCCUPATION & WORK STATUS 2002
+emp_commercial_farmer_m02,Employer Commercial Farmer Males 2002,OCCUPATION & WORK STATUS 2002
+emp_commercial_farmer_f02,Employer Commercial Farmer Females 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_txtgmt_rlt_trdwrk_m02,Paid worker Textile Garment And Related Trades Worker Males 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_txtgmt_rlt_trdwrk_f02,Paid worker Textile Garment And Related Trades Worker Females 2002,OCCUPATION & WORK STATUS 2002
+actwrk_txtgmt_rlt_trdwrk_m02,Own account worker Textile Garment And Related Trades Worker Males 2002,OCCUPATION & WORK STATUS 2002
+actwrk_txtgmt_rlt_trdwrk_f02,Own account worker Textile Garment And Related Trades Worker Females 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_txtgmt_rlttrdwrkm02,Unpaid family worker Textile Garment And Related Trades Worker Males 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_txtgmt_rlttrdwrkf02,Unpaid family worker Textile Garment And Related Trades Worker Females 2002,OCCUPATION & WORK STATUS 2002
+emp_txtgmt_rlt_trdwrk_m02,Employer Textile Garment And Related Trades Worker Males 2002,OCCUPATION & WORK STATUS 2002
+emp_txtgmt_rlt_trdwrk_f02,Employer Textile Garment And Related Trades Worker Females 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_frst_rltwrk_m02,Paid worker Forestry And Related Worker Males 2002,OCCUPATION & WORK STATUS 2002
+pd_empl_frst_rltwrk_f02,Paid worker Forestry And Related Worker Females 2002,OCCUPATION & WORK STATUS 2002
+actwrk_frst_rltwrk_m02,Own account worker Forestry And Related Worker Males 2002,OCCUPATION & WORK STATUS 2002
+actwrk_frst_rltwrk_f02,Own account worker Forestry And Related Worker Females 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_frst_rltwrk_m02,Unpaid family worker Forestry And Related Worker Males 2002,OCCUPATION & WORK STATUS 2002
+unpd_famwrk_frst_rltwrk_f02,Unpaid family worker Forestry And Related Worker Females 2002,OCCUPATION & WORK STATUS 2002
+emp_frst_rltwrk_m02,Employer Forestry And Related Worker Males 2002,OCCUPATION & WORK STATUS 2002
+emp_frst_rltwrk_f02,Employer Forestry And Related Worker Females 2002,OCCUPATION & WORK STATUS 2002
+___SERVICE_ACCESS_2002___,-----------------SERVICE ACCESS 2002------------------------,
+acc_elec_m02,"Access to electricity in home, male 2002",SERVICE ACCESS 2002
+acc_elec_f02,"Access to electricity in home, female 2002",SERVICE ACCESS 2002
+no_elec_m02,"No access to electricity in home, male 2002",SERVICE ACCESS 2002
+no_elec_f02,"No access to electricity in home, female 2002",SERVICE ACCESS 2002
+acc_sant_m02,"Access to sanitation in home (toilet facility), male 2002",SERVICE ACCESS 2002
+acc_sant_f02,"Access to sanitation in home (toilet facility), female 2002",SERVICE ACCESS 2002
+no_sant_m02,"No access to sanitation in home (toilet facility), male 2002",SERVICE ACCESS 2002
+no_sant_f02,"No access to sanitation in home (toilet facility), female 2002",SERVICE ACCESS 2002
+wat_impr_m02,"Access to improved water in home, male 2002",SERVICE ACCESS 2002
+wat_impr_f02,"Access to improved water in home, female 2002",SERVICE ACCESS 2002
+unwat_impr_m02,"No access to improved water in home, male 2002",SERVICE ACCESS 2002
+unwat_impr_f02,"No access to improved water in home, female 2002",SERVICE ACCESS 2002
+___EDUCATION_2002___,-----------------EDUCATION 2002------------------------,
+m_pre_school02,Males_Pre_school,EDUCATION 2002
+m_edupri02,Males_Primary_Education,EDUCATION 2002
+edusec02,Secondary_Education,EDUCATION 2002
+edutri02,Tertiary_Education,EDUCATION 2002
+edu_no02,No_Education,EDUCATION 2002
+total02,Total,EDUCATION 2002
+m_only_edupri_over_tot_m02,Males_with_only_primary_education_as_a_of_total_males,EDUCATION 2002
+m_gte_edusec_over_tot_m02,Males_with_at_least_secondary_education_as_a_of_total_males,EDUCATION 2002
+m_gte_edutri_over_tot_m02,Males_with_at_least_tertiary_education_as_a_of_total_males,EDUCATION 2002
+m_edu_no_over_tot_m02,Males_with_no_education_as_a_of_total_males,EDUCATION 2002
+edusec_102,Secondary_Education_1,EDUCATION 2002
+edutri_102,Tertiary_Education_1,EDUCATION 2002
+edu_no_102,No_Education_1,EDUCATION 2002
+total_102,Total_1,EDUCATION 2002
+f_gte_edusec_over_tot_f02,Females_with_at_least_secondary_education_as_a_of_total_females,EDUCATION 2002
+f_gte_edutri_over_tot_f02,Females_with_at_least_tertiary_education_as_a_of_total_females,EDUCATION 2002
+f_edu_no_over_tot_f02,Females_with_no_education_as_a_of_total_females,EDUCATION 2002
+tot_m_f_edupre02,Total_number_of_males_females_with_pre_school_education,EDUCATION 2002
+tot_m_f_edupri02,Total_number_of_males_females_with_primary_education,EDUCATION 2002
+tot_m_f_edusec02,Total_number_of_males_females_with_secondary_education,EDUCATION 2002
+tot_m_f_edutri02,Total_number_of_males_females_with_tertiary_education,EDUCATION 2002
+tot_m_f_edu_no02,Total_number_of_males_females_with_no_education,EDUCATION 2002
+tot_m_f_in_each_ward02,Total_number_of_males_females_in_each_ward,EDUCATION 2002
+f_only_pre_school_over_tot_f02,Females_with_only_pre_school_as_a_of_total_females,EDUCATION 2002
+f_only_edupri_over_tot_f02,Females_with_only_primary_education_as_a_of_total_females,EDUCATION 2002
+not_known02,Not_known,EDUCATION 2002
+m_only_pre_school_over_tot_m02,Males_with_only_pre_school_as_a_of_total_males,EDUCATION 2002
+f_pre_school02,Females_Pre_school,EDUCATION 2002
+f_edupri02,Females_Primary_Education,EDUCATION 2002
+not_known_102,Not_known_1,EDUCATION 2002
+f_m_only_pre_school_over_tot_m02,Females_Males_with_only_pre_school_as_a_of_total_males,EDUCATION 2002
+pre_school02,Pre_school,EDUCATION 2002
+edupri02,Primary_Education,EDUCATION 2002
+sh_edu_sec_ter02,Share of people with secondary education or higher 2002,EDUCATION 2002
+___TRANSPORT___,-----------------TRANSPORT------------------------ ,
+MPiequalj_7,"Market Potential (access to pop including pop of own ward) using OSM, lambda: 0.7",TRANSPORT
+MPiequalj_07,"Market Potential (access to pop including pop of own ward) using OSM, lambda: 0.07",TRANSPORT
+MPiequalj_02,"Market Potential (access to pop including pop of own ward) using OSM, lambda: 0.02",TRANSPORT
+MPiequalj_01,"Market Potential (access to pop including pop of own ward) using OSM, lambda: 0.01",TRANSPORT
+MPiequalj_004,"Market Potential (access to pop including pop of own ward) using OSM, lambda: 0.004",TRANSPORT
+MP_7,"Market Potential (access to pop excluding pop of own ward) using OSM, lambda: 0.7",TRANSPORT
+MP_07,"Market Potential (access to pop excluding pop of own ward) using OSM, lambda: 0.07",TRANSPORT
+MP_02,"Market Potential (access to pop excluding pop of own ward) using OSM, lambda: 0.02",TRANSPORT
+MP_01,"Market Potential (access to pop excluding pop of own ward) using OSM, lambda: 0.01",TRANSPORT
+MP_004,"Market Potential (access to pop excluding pop of own ward) using OSM, lambda: 0.004",TRANSPORT
+distM_Harare,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_Harare,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_Harare,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_Harare,"Travel time from ward to city in hours, OSM",TRANSPORT
+Harare_5km,Ward within 5km of Harare,TRANSPORT
+Harare_10km,Ward within 10km of Harare,TRANSPORT
+Harare_15km,Ward within 15km of Harare,TRANSPORT
+Harare_50km,Ward within 50km of Harare,TRANSPORT
+Harare_100km,Ward within 100km of Harare,TRANSPORT
+distM_CityCouncil,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CityCouncil,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CityCouncil,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CityCouncil,"Travel time from ward to city in hours, OSM",TRANSPORT
+CityCouncil_5km,Ward within 5km of a City Council,TRANSPORT
+CityCouncil_10km,Ward within 10km of a City Council,TRANSPORT
+CityCouncil_15km,Ward within 15km of a City Council,TRANSPORT
+CityCouncil_50km,Ward within 50km of a City Council,TRANSPORT
+CityCouncil_100km,Ward within 100km of a City Council,TRANSPORT
+distM_Municipality,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_Municipality,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_Municipality,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_Municipality,"Travel time from ward to city in hours, OSM",TRANSPORT
+Municipality_5km,Ward within 5km of a Municipality,TRANSPORT
+Municipality_10km,Ward within 10km of a Municipality,TRANSPORT
+Municipality_15km,Ward within 15km of a Municipality,TRANSPORT
+Municipality_50km,Ward within 50km of a Municipality,TRANSPORT
+Municipality_100km,Ward within 100km of a Municipality,TRANSPORT
+distM_TownCouncil,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_TownCouncil,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_TownCouncil,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_TownCouncil,"Travel time from ward to city in hours, OSM",TRANSPORT
+TownCouncil_5km,Ward within 5km of a Town Council,TRANSPORT
+TownCouncil_10km,Ward within 10km of a Town Council,TRANSPORT
+TownCouncil_15km,Ward within 15km of a Town Council,TRANSPORT
+TownCouncil_50km,Ward within 50km of a Town Council,TRANSPORT
+TownCouncil_100km,Ward within 100km of a Town Council,TRANSPORT
+distM_CC_Bulawayo,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CC_Bulawayo,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CC_Bulawayo,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CC_Bulawayo,"Travel time from ward to city in hours, OSM",TRANSPORT
+CC_Bulawayo_5km,Ward within 5km of Bulawayo City Council,TRANSPORT
+CC_Bulawayo_10km,Ward within 10km of Bulawayo City Council,TRANSPORT
+CC_Bulawayo_15km,Ward within 15km of Bulawayo City Council,TRANSPORT
+CC_Bulawayo_50km,Ward within 50km of Bulawayo City Council,TRANSPORT
+CC_Bulawayo_100km,Ward within 100km of Bulawayo City Council,TRANSPORT
+distM_CC_Mutare,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CC_Mutare,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CC_Mutare,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CC_Mutare,"Travel time from ward to city in hours, OSM",TRANSPORT
+CC_Mutare_5km,Ward within 5km of Mutare City Council,TRANSPORT
+CC_Mutare_10km,Ward within 10km of Mutare City Council,TRANSPORT
+CC_Mutare_15km,Ward within 15km of Mutare City Council,TRANSPORT
+CC_Mutare_50km,Ward within 50km of Mutare City Council,TRANSPORT
+CC_Mutare_100km,Ward within 100km of Mutare City Council,TRANSPORT
+distM_CC_Kadoma,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CC_Kadoma,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CC_Kadoma,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CC_Kadoma,"Travel time from ward to city in hours, OSM",TRANSPORT
+CC_Kadoma_5km,Ward within 5km of Kadoma City Council,TRANSPORT
+CC_Kadoma_10km,Ward within 10km of Kadoma City Council,TRANSPORT
+CC_Kadoma_15km,Ward within 15km of Kadoma City Council,TRANSPORT
+CC_Kadoma_50km,Ward within 50km of Kadoma City Council,TRANSPORT
+CC_Kadoma_100km,Ward within 100km of Kadoma City Council,TRANSPORT
+distM_CC_Gweru,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CC_Gweru,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CC_Gweru,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CC_Gweru,"Travel time from ward to city in hours, OSM",TRANSPORT
+CC_Gweru_5km,Ward within 5km of Gweru City Council,TRANSPORT
+CC_Gweru_10km,Ward within 10km of Gweru City Council,TRANSPORT
+CC_Gweru_15km,Ward within 15km of Gweru City Council,TRANSPORT
+CC_Gweru_50km,Ward within 50km of Gweru City Council,TRANSPORT
+CC_Gweru_100km,Ward within 100km of Gweru City Council,TRANSPORT
+distM_CC_KweKwe,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CC_KweKwe,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CC_KweKwe,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CC_KweKwe,"Travel time from ward to city in hours, OSM",TRANSPORT
+CC_KweKwe_5km,Ward within 5km of KweKwe City Council,TRANSPORT
+CC_KweKwe_10km,Ward within 10km of KweKwe City Council,TRANSPORT
+CC_KweKwe_15km,Ward within 15km of KweKwe City Council,TRANSPORT
+CC_KweKwe_50km,Ward within 50km of KweKwe City Council,TRANSPORT
+CC_KweKwe_100km,Ward within 100km of KweKwe City Council,TRANSPORT
+distM_CC_Masvingo,"Distance from ward to city in km, OSM",TRANSPORT
+distKM_CC_Masvingo,"Distance from ward to city in km, OSM",TRANSPORT
+distMin_CC_Masvingo,"Travel time from ward to city in minutes, OSM",TRANSPORT
+distHour_CC_Masvingo,"Travel time from ward to city in hours, OSM",TRANSPORT
+CC_Masvingo_5km,Ward within 5km of Masvingo City Council,TRANSPORT
+CC_Masvingo_10km,Ward within 10km of Masvingo City Council,TRANSPORT
+CC_Masvingo_15km,Ward within 15km of Masvingo City Council,TRANSPORT
+CC_Masvingo_50km,Ward within 50km of Masvingo City Council,TRANSPORT
+CC_Masvingo_100km,Ward within 100km of Masvingo City Council,TRANSPORT
+distHarareInt,"Distances to Harare (15, 50, 100km along road)",TRANSPORT
+distCityCouncilInt,"Distances to closest City Council (15, 50, 100km along road)",TRANSPORT
+distMunicipalityInt,"Distances to closest Municipality (15, 50, 100km along road)",TRANSPORT
+distTownCouncilInt,"Distances to closest Town Council (15, 50, 100km along road)",TRANSPORT
+distBulawayoInt,"Distances to TC Bulawayo (15, 50, 100km) along road",TRANSPORT
+distMutareInt,"Distances to TC Mutare (15, 50, 100km) along road",TRANSPORT
+distKadomaInt,"Distances to TC Kadoma (15, 50, 100km) along road",TRANSPORT
+distGweruInt,"Distances to TC Gweru (15, 50, 100km) along road",TRANSPORT
+distKweKweInt,"Distances to TC KweKwe (15, 50, 100km) along road",TRANSPORT
+distMasvingoInt,"Distances to TC Masvingo (15, 50, 100km) along road",TRANSPORT
+___MIGRATION___,-----------------MIGRATION------------------------,
+pct_migrants2012_district,Proportion migrants 2012 district level,MIGRATION
+pct_migrants2002_district,Proportion migrants 2002 district level,MIGRATION
+___ENVIRONMENT___,-----------------ENVIRONMENT------------------------,
+LC_crop_share,Land Cover: 1 Cropland share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_for_share,Land Cover: 2 Forest share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_shrub_share,Land Cover: 3 Shrubland share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_grass_share,Land Cover: 4 Grassland share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_sparseVeg_share,Land Cover: 5 Sparse Vegetation share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_wetland_share,Land Cover: 6 Wetland share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_urban_share,Land Cover: 7 Urban share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_bare_share,Land Cover: 8 Bare land share of ward (source: ESA CCI 2015),ENVIRONMENT
+LC_water_share,Land Cover: 9 Water share of ward (source: ESA CCI 2015),ENVIRONMENT
+LCcat,Land Cover: Majority category share of ward (source: ESA CCI 2015),ENVIRONMENT
+___LOCATION_TYPES___,-----------------LOCATION TYPES------------------------,
+urban_type,Location type (5 urban and 1 rural category),LOCATION TYPES
+urban_type_name,Location type name (5 urban and 1 rural category),LOCATION TYPES
+urban_type5,Location type (4 urban and 1 rural category),LOCATION TYPES
+natural_region,Agro-ecological regions,LOCATION TYPES
+nat_region_short,"Agro-ecological regions, short names",LOCATION TYPES
+landclass,Land Apportionment 1930,LOCATION TYPES
+landclassNo,"Land Apportionment 1930, numeric",LOCATION TYPES
+class_Farm_Resettle,Old Land Class: Large Commercial Farm or Resettlement Areas,LOCATION TYPES
+class_Farm_ResettleNo,"Old Land Class: Large Commercial Farm or Resettlement Areas, numeric",LOCATION TYPES
+landclassNoSub,"Land Apportionment 1930 with Resettlement Areas subcategory, numeric",LOCATION TYPES
