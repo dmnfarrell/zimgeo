@@ -2,7 +2,7 @@
 layout: post
 title:  "Zimbabwe towns"
 date:   2019-11-26 01:30:13 +0800
-categories: default
+categories: regions
 tags: towns
 comments: 1
 ---

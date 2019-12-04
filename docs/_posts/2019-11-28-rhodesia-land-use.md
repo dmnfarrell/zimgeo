@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Land usage in Rhodesia"
-date:   2019-12-03 01:30:13 +0800
-categories: rhodesia
-tags: rhodesia
+date:   2019-12-01 01:30:13 +0800
+categories: regions
+tags: rhodesia, land
 comments: 1
 ---
 
-The colonial government in Southern Rhodesia delineated the country into five distinct farming regions which corresponded roughly to rainfall patterns. Land ownership in these regions was determined by race under the terms of the Southern Rhodesian Land Apportionment Act. Regions I, II, and III were most suitable for farming and thus reserved for white settlement (areas in orange). The red regions were Tribal Trust Lands, largely unsuitable for large scale crop cultivation. These were reserved for use by the majority black African population and would generally support subsistence farming.
+The colonial government in Southern Rhodesia delineated the country into five distinct farming regions which corresponded roughly to rainfall patterns. Land ownership in these regions was determined by race under the terms of the Southern Rhodesian Land Apportionment Act. Regions I, II, and III were most suitable for farming and thus reserved for white settlement (areas in orange). The red regions were Tribal Trust Lands, largely unsuitable for large scale crop cultivation. These were reserved for use by the majority black African population and would generally support subsistence farming. 
 
 {% include land_use.html %}
 

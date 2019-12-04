@@ -2,8 +2,8 @@
 layout: post
 title:  "Zimbabwe admininstrative regions"
 date:   2019-12-01 01:30:13 +0800
-categories: default
-tags: regions
+categories: regions
+tags: province, district
 comments: 1
 ---
 
