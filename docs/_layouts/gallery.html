@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+{% assign num = page.photos.size %}
+
+<h1>{{ page.title }}</h1>
+<ul>
+  {% for image in site.static_files %}
+  {% if image.path contains 'img' %}
+    <div class="container">
+      <img src="{{ site.baseurl }}/{{ image.path }}" width=400>
+    </div>
+  {% endif %}
+  {% endfor %}
+</ul>

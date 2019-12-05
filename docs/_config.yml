@@ -20,9 +20,10 @@ baseurl: '/zimgeo'
 url: "https://dmnfarrell.github.io/zimgeo/"
 permalink: /:categories/:title
 paginate: 5
+images: 'img'
 
 # MatJek specific configurations
-github_profile: "https://github.com/dmnfarrell"
+github_profile: "https://github.com/dmnfarrell/zimgeo"
 user: "Damien Farrell"
 user_email:
 contact_url:
